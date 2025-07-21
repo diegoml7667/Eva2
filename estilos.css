@@ -1,0 +1,31 @@
+/* estilos.css */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.bg-barca {
+  background-color: #003893; 
+}
+
+.text-barca {
+  color: #a50044; 
+}
+
+.btn-barca {
+  background-color: #a50044;
+  color: white;
+  border: none;
+  transition: 0.3s ease;
+}
+
+.btn-barca:hover {
+  background-color: #003893;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
